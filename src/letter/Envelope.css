@@ -83,3 +83,15 @@
     padding: 15px; 
   }
 }
+@media (max-width: 361px) {
+  .letter {
+    font-size: 12px; /* Decrease font size for very small screens */
+    padding: 7px; /* Adjust padding for very small screens */
+  }
+}
+@media (min-width: 362px) and (max-width: 400px) {
+  .letter {
+    font-size: 12px; /* Adjust font size for screens between 370px and 480px */
+    padding: 7px; /* Adjust padding for screens between 370px and 480px */
+  }
+}
