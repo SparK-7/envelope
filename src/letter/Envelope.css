@@ -89,7 +89,7 @@
     padding: 7px; /* Adjust padding for very small screens */
   }
 }
-@media (min-width: 362px) and (max-width: 400px) {
+@media (min-width: 362px) and (max-width: 480px) {
   .letter {
     font-size: 12px; /* Adjust font size for screens between 370px and 480px */
     padding: 7px; /* Adjust padding for screens between 370px and 480px */
